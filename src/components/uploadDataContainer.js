@@ -54,9 +54,9 @@ function UploadDataContainer() {
                     </button>
                 </form>
             </div>
-            <p>
-                <ResultsList id1={topPair.id1} id2={topPair.id2} daysTogether={topPair.daysWorkedTogether} />
-            </p>
+            
+            <ResultsList id1={topPair.id1} id2={topPair.id2} daysTogether={topPair.daysWorkedTogether} />
+            
         </>
     );
 
