@@ -1,6 +1,5 @@
-[Task definition](#Task-definition)<br />
-[Link to Header](#the-header)<br />
-[COMMENT](#Comment)<br />
+[Task definition](#Task-definition) <br />
+[COMMENT](#Comment) <br />
 
 ### Task definition
 Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
