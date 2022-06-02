@@ -1,5 +1,8 @@
+[Task definition][]
+[COMMENT][]
 
-### Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
+### Task definition
+Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
 
 Input data: <br />
 A CSV file with data in the following format: <br />
