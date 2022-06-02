@@ -10,8 +10,9 @@ Sample data: <br />
 218, 10, 2012-05-16, NULL <br />
 143, 10, 2009-01-01, 2011-04-27 <br />
 Sample output: <br />
-143, 218, 8 <br />
-Specific requirements 
+143, 218, 8 
+<br />
+Specific requirements <br />
 1) DateTo can be NULL, equivalent to today <br />
 2) The input data must be loaded to the program from a CSV file <br />
 3) Create an UI: <br />
