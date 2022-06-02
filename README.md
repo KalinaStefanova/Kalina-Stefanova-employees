@@ -26,7 +26,7 @@ Employee ID #1, Employee ID #2, Project ID, Days worked <br />
 format: {FirstName}-{LastName}-employees <br />
 ### Bonus points 
 1) More than one date format to be supported, extra points will be given if all date formats 
-are supported 
+are supported <br />
 **COMMENT:
 There are generally 3 types of JavaScript date input formats:<br/>
 ISO Date - "2015-03-25" (The International Standard)<br/>
