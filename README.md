@@ -30,7 +30,7 @@ format: {FirstName}-{LastName}-employees <br />
 1) More than one date format to be supported, extra points will be given if all date formats 
 are supported <br />
 ### Comment
-**There are generally [3 types of JavaScript date input formats](https://www.w3schools.com/js/js_date_formats.asp)[newtab]<br/>
+**There are generally [3 types of JavaScript date input formats](https://www.w3schools.com/js/js_date_formats.asp)[newtab] <br/>
 ISO Date - "2015-03-25" (The International Standard)<br/>
 Short Date - "03/25/2015"<br/>
 Long Date - "Mar 25 2015" or "25 Mar 2015"<br/>
