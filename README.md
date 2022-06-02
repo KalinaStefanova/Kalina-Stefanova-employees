@@ -4,7 +4,7 @@
 [Test files](#Test-files)<br />
 
 ### Task definition
-Application that identifies the pair of employees who have worked together on common projects for the longest period of time. Solution should be implemented with <b>React</b>.
+Application that identifies the pair of employees who have worked together on common projects for the longest period of time. Solution should be implemented in <b>React</b>.
 
 Input data: <br />
 A CSV file with data in the following format: <br />
