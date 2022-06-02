@@ -5,7 +5,6 @@ together on common projects for the longest period of time.
 
 Input data: <br />
 A CSV file with data in the following format: <br />
-
 EmpID, ProjectID, DateFrom, DateTo <br />
 
 Sample data: <br />
@@ -13,7 +12,6 @@ Sample data: <br />
 218, 10, 2012-05-16, NULL <br />
 143, 10, 2009-01-01, 2011-04-27 <br />
 ... 
-
 Sample output: <br />
 143, 218, 8 <br />
 Specific requirements <br />
@@ -26,7 +24,6 @@ projects of the pair are displayed in datagrid with the following columns:
 Employee ID #1, Employee ID #2, Project ID, Days worked <br />
 4) The task solution needs to be uploaded in github.com, repository name must be in 
 format: {FirstName}-{LastName}-employees <br />
-
 ### Bonus points 
 1) More than one date format to be supported, extra points will be given if all date formats 
 are supported 
@@ -37,6 +34,7 @@ Short Date - "03/25/2015"
 Long Date - "Mar 25 2015" or "25 Mar 2015"
 Since A JavaScript date is fundamentally specified as the number of milliseconds that have elapsed since the ECMAScript epoch, which is defined as January 1, 1970, UTC (equivalent to the UNIX epoch
 I use converted to milliseconds dates for comparisons.
+
 
 
 
