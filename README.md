@@ -1,6 +1,7 @@
 [Task definition](#Task-definition) <br />
 [Bonus points comment](#Comment) <br />
 [Improvement suggestion](#Improvement-suggestion)<br />
+[Test files](#Test-files)<br />
 
 ### Task definition
 Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
@@ -38,4 +39,6 @@ Since A JavaScript date is fundamentally specified as the number of milliseconds
 ### Improvement suggestion
 For better performance the dates comparison and work days calculation can be implemented server-side. And React app can consume an API and fetch the pair of employees that worked together for longest period of time. 
 
+### Test files
+For convenience, I have included some test csv files. 
 
