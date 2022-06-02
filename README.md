@@ -1,5 +1,5 @@
 
-### Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
+Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
 
 Input data: <br />
 A CSV file with data in the following format: <br />
@@ -12,7 +12,6 @@ Sample data: <br />
 Sample output: <br />
 143, 218, 8 <br />
 Specific requirements <br />
-
 1) DateTo can be NULL, equivalent to today <br />
 2) The input data must be loaded to the program from a CSV file <br />
 3) Create an UI: <br />
