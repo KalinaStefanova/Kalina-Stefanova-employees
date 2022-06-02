@@ -1,6 +1,6 @@
-[Task definition](#Task-definition)
-[Link to Header](#the-header)
-[COMMENT](#COMMENT:)
+[Task definition](#Task-definition)<br />
+[Link to Header](#the-header)<br />
+[COMMENT](#Comment)<br />
 
 ### Task definition
 Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
@@ -28,7 +28,7 @@ format: {FirstName}-{LastName}-employees <br />
 #### Bonus points 
 1) More than one date format to be supported, extra points will be given if all date formats 
 are supported <br />
-### COMMENT:
+### Comment
 **There are generally 3 types of JavaScript date input formats:<br/>
 ISO Date - "2015-03-25" (The International Standard)<br/>
 Short Date - "03/25/2015"<br/>
