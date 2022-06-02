@@ -27,13 +27,13 @@ format: {FirstName}-{LastName}-employees <br />
 ### Bonus points 
 1) More than one date format to be supported, extra points will be given if all date formats 
 are supported 
-### COMMENT:
-There are generally 3 types of JavaScript date input formats:
-ISO Date - "2015-03-25" (The International Standard)
-Short Date - "03/25/2015"
-Long Date - "Mar 25 2015" or "25 Mar 2015"
-Since A JavaScript date is fundamentally specified as the number of milliseconds that have elapsed since the ECMAScript epoch, which is defined as January 1, 1970, UTC (equivalent to the UNIX epoch
-I use converted to milliseconds dates for comparisons.
+**COMMENT:
+There are generally 3 types of JavaScript date input formats:<br/>
+ISO Date - "2015-03-25" (The International Standard)<br/>
+Short Date - "03/25/2015"<br/>
+Long Date - "Mar 25 2015" or "25 Mar 2015"<br/>
+Since A JavaScript date is fundamentally specified as the number of milliseconds that have elapsed since the ECMAScript epoch, which is defined as January 1, 1970, UTC (equivalent to the UNIX epoch).<br/>
+I use converted to milliseconds dates for comparisons.**
 
 
 
@@ -83,26 +83,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
