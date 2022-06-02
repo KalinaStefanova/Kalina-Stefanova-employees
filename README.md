@@ -1,7 +1,5 @@
 
-## TASK:
-Create an application that identifies the pair of employees who have worked 
-together on common projects for the longest period of time. 
+### Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
 
 Input data: <br />
 A CSV file with data in the following format: <br />
@@ -11,7 +9,6 @@ Sample data: <br />
 143, 12, 2013-11-01, 2014-01-05 <br />
 218, 10, 2012-05-16, NULL <br />
 143, 10, 2009-01-01, 2011-04-27 <br />
-... 
 Sample output: <br />
 143, 218, 8 <br />
 Specific requirements <br />
