@@ -1,5 +1,6 @@
 [Task definition](#Task-definition) <br />
-[COMMENT](#Comment) <br />
+[Bonus points comment](#Comment) <br />
+[Improvement suggestion](#Improvement suggestion)<br />
 
 ### Task definition
 Application that identifies the pair of employees who have worked together on common projects for the longest period of time. 
@@ -32,7 +33,9 @@ are supported <br />
 ISO Date - "2015-03-25" (The International Standard)<br/>
 Short Date - "03/25/2015"<br/>
 Long Date - "Mar 25 2015" or "25 Mar 2015"<br/>
-Since A JavaScript date is fundamentally specified as the number of milliseconds that have elapsed since the ECMAScript epoch, which is defined as January 1, 1970, UTC (equivalent to the UNIX epoch).<br/>
-I use converted to milliseconds dates for comparisons.**
+Since A JavaScript date is fundamentally specified as the number of milliseconds that have elapsed since the ECMAScript epoch, which is defined as January 1, 1970, UTC (equivalent to the UNIX epoch), I decided to use milliseconds date representation for comparisons**
+
+### Improvement suggestion
+For better performance the dates comparison and work days calculation can be implemented server-side. And React app can consume an API and fetch the pair of employees that worked together for longest period of time. 
 
 
