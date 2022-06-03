@@ -1,7 +1,7 @@
-[Task definition](#Task-definition) <br />
-[Bonus points comment](#Comment) <br />
-[Improvement suggestion](#Improvement-suggestion)<br />
-[Test files](#Test-files)<br />
+[1. Task definition](#Task-definition) <br />
+[2. Bonus points comment](#Comment) <br />
+[3. Improvement suggestion](#Improvement-suggestion)<br />
+[4. Test files](#Test-files)<br />
 
 ### Task definition
 Application that identifies the pair of employees who have worked together on common projects for the longest period of time. Solution should be implemented in <b>React</b>.
